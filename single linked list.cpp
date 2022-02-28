@@ -217,7 +217,7 @@ int main()
 		printf("6. Remove a specific element\n");
 		printf("7. Count the number of elements\n");
 		printf("8. Find the sum of the elements\n");
-        printf("9. diplay\n");
+                printf("9. diplay\n");
 		printf("10. exit\n\n");
 		printf("Enter your choice: ");
 		scanf("%d",&ch);
